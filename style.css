@@ -1,0 +1,17 @@
+body{
+    background-color: lavender;
+    text-align:center;
+}
+h1{
+    margin:20px;
+    color:slateblue;
+}
+img{
+    width:200px;
+    height:200px;
+    margin:10px;
+    border-radius:20px;
+}
+div{
+    margin:20px;
+}
